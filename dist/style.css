@@ -829,7 +829,7 @@ nav {
 
 
 nav {
-  background-color: #444; /* Navigation bar background color */
+  background-color: #fff; /* Navigation bar background color */
   height: 55px; /* Set desired height */
   display: flex; /* Center contents inside the nav */
   justify-content: center; /* Center menu items horizontally */
@@ -848,14 +848,14 @@ nav {
 .menu > .dropdown {
   position: relative;
   display: inline-block;
-  color: #fff; /* Text color */
+  color: #222222; /* Text color */
   cursor: pointer;
   padding: 15px 30px; /* Increased padding for larger buttons */
   font-size: 16px; /* Slightly larger font size */
 }
 
 .menu > .dropdown:hover {
-  background-color: #444; /* Background color on hover */
+  background-color: #555; /* Background color on hover */
 }
 
 /* Dropdown menu styling */
