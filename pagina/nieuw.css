@@ -35,7 +35,9 @@ body {
     text-align: center; /* Voor een nette uitlijning van de tekst */
 }
 
-
+h1{
+    text-align: center;
+}
 
 @media screen and (max-width: 1260px) {
     .back {
