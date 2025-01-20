@@ -44,6 +44,13 @@ h3  {
     font-size: 60px;
 }
 
+h4  {
+    clear: both; /* Clears floats if .back is floated */
+    margin-top: 20px;
+    text-align: center;
+    font-size: 15px;
+}
+
 h6
 {
     clear: both; /* Clears floats if .back is floated */
