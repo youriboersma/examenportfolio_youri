@@ -215,5 +215,29 @@ $(document).ready(function () {
         });
     });
   });
+  document.getElementById('myForm').addEventListener('submit', function (event) {
+    event.preventDefault(); // Prevents the default form submission
+
+    // Logic for sending the message (could be extended to include an actual backend/API call)
+    const name = document.getElementById('name').value;
+    const email = document.getElementById('email').value;
+    const message = document.getElementById('message').value;
+
+    if (name && email && message) {
+      // Simulate sending a message
+      const successMessage = document.getElementById('successMessage');
+      successMessage.style.display = 'block'; // Show success message
+      successMessage.textContent = `Thank you, ${name}! Your message has been sent.`;
+    } else {
+      alert('Please fill out all fields before sending.');
+    }
+
+    // Optionally, clear the form fields
+    this.reset();
+  });
+
+
+
+
 });
 
