@@ -21,6 +21,7 @@ body {
     padding: 0px 5px 5px 5px;
     text-align: center;
     margin-bottom: 20px; /* Add spacing between elements */
+    border-radius: 20px;
 }
 
 .container {
