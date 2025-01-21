@@ -262,3 +262,40 @@ nav ul li a {
 nav ul li a:hover {
     text-decoration: underline; /* Underline on hover */
 }
+
+/* Hero Section (Background Image) */
+.plastic-section {
+    position: relative;
+    height: 100vh; /* Full-screen height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    overflow: hidden; /* Ensures content stays within the container */
+}
+
+/* Background Image (Blurred) */
+.plastic-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../img/plastic.png'); /* Replace with your image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    filter: blur(5px); /* Adds blur ONLY to the background */
+    z-index: 0; /* Pushes it behind the text */
+}
+
+/* Hero Text */
+.plastic-section h1, .hero-section p {
+    position: relative;
+    z-index: 1; /* Ensures text is above the blurred background */
+    margin: 0;
+}
