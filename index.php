@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css'><link rel="stylesheet" href="./style.css">
-  <link rel="icon" href="../img/YB.jpg" type="image/jpg">
+  <link rel="icon" href="./img/YB.jpg" type="image/jpg">
 
 
 </head>
@@ -20,12 +20,12 @@
   <!-- navbar header -->
   <div class="nav-header">
     <div class="nav-brand">
-      <img src="../img/YB.jpg">
+      <img src="./img/YB.jpg">
     </div>
     <i class="fa fa-bars fa-3x"></i>
     <div class="header-links">
       <ul>
-       <li data-menuanchor="fourthPage"><a href="#contact">CASES</a></li>
+       <li data-menuanchor="fourthPage"><a href="#contact">CONTACT</a></li>
         <!--<li data-menuanchor="fourthPage"><a href="#cases">CASES</a></li>-->
         <li data-menuanchor="thirdPage"><a href="#portfolio">PORTFOLIO</a></li>
         <li data-menuanchor="secondPage"><a href="#about">ABOUT</a></li>
@@ -40,7 +40,7 @@
     <div class="nav-container">
       <div class="nav-links">
         <ul id='myMenu'>
-          <li data-menuanchor="secondPage"><a href="#about">ABOUT</a></li>
+          <li data-menuanchor="secondPage"><a href="#about">CONTACT</a></li>
           <li data-menuanchor="thirdPage"><a href="#portfolio">PORTFOLIO</a></li>
           <!--<li data-menuanchor="fourthPage"><a href="#cases">CASES</a></li>-->
           <li data-menuanchor="fourthPage"><a href="#contact">CASES</a></li>
@@ -123,36 +123,36 @@
         <div class="slide">
           <h1>Portfolio</h1>
           <p>project: plastic recycle app</p>
-          <button class="image-button" style="background-image: url('../img/plastic.png');"
-                  onclick="window.location.href='../pagina/plastic_recycle_app.html';"></button>
+          <button class="image-button" style="background-image: url('./img/plastic.png');"
+                  onclick="window.location.href='pagina/plastic_recycle_app.php';"></button>
         </div>
 
         <div class="slide">
           <h1>Portfolio</h1>
           <p>project: APG VR metaverse </p>
-          <button class="image-button" style="background-image: url('../img/APG_metaverse.png');"
-                  onclick="window.location.href='../pagina/APG_metaverse.html';"></button>
+          <button class="image-button" style="background-image: url('./img/APG_metaverse.png');"
+                  onclick="window.location.href='pagina/APG_metaverse.php';"></button>
         </div>
 
         <div class="slide">
           <h1>Portfolio</h1>
           <p>project: portfolio</p>
-          <button class="image-button" style="background-image: url('../img/portfolio_project.PNG');"
-                  onclick="window.location.href='../pagina/portfolio_pagina.html';"></button>
+          <button class="image-button" style="background-image: url('./img/portfolio_project.PNG');"
+                  onclick="window.location.href='pagina/portfolio_pagina.php';"></button>
         </div>
 
         <div class="slide">
           <h1>Portfolio</h1>
           <p>project: fijnmechanische en creatieve technologie keuzedeel </p>
-          <button class="image-button" style="background-image: url('../img/fijnmechanica.png');"
-                  onclick="window.location.href='../pagina/fijnmechanisch.html';"></button>
+          <button class="image-button" style="background-image: url('./img/fijnmechanica.png');"
+                  onclick="window.location.href='pagina/fijnmechanisch.php';"></button>
         </div>
 
         <div class="slide">
           <h1>Portfolio</h1>
           <p>project: pizzeria sopranos</p>
-          <button class="image-button" style="background-image: url('../img/pizza_sopranos.png');"
-                  onclick="window.location.href='../pagina/pizzeria_sopranos.html';"></button>
+          <button class="image-button" style="background-image: url('./img/pizza_sopranos.png');"
+                  onclick="window.location.href='pagina/pizzeria_sopranos.php';"></button>
         </div>
       </div>
     </div>
