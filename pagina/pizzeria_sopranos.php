@@ -157,7 +157,7 @@
 
 <div class="back">
   <h2>link naar de trello pagina</h2>
-  <div class="button_base b10_tveffect" onclick="window.open('https://trello.com/invite/b/66dea0cf58f65d5926d8b941/ATTIbbbb93616357ef0c8184eef07ad50c4867711B7F/pizzeriasopranos', '_blank');">
+  <div class="button_base b10_tveffect" onclick="window.open('https://trello.com/b/N9XDKbpK/pizzeriasopranos', '_blank');">
     <div>trello</div>
     <div>
       <div>trello</div>
