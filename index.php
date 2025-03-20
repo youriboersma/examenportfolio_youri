@@ -154,6 +154,13 @@
           <button class="image-button" style="background-image: url('./img/pizza_sopranos.png');"
                   onclick="window.location.href='pagina/pizzeria_sopranos.php';"></button>
         </div>
+
+          <div class="slide">
+              <h1>Portfolio</h1>
+              <p>project: FIFA toernooi</p>
+              <button class="image-button" style="background-image: url('./img/fifa_toernooi_frontpage.png');"
+                      onclick="window.location.href='pagina/fifa_toernooi.php';"></button>
+          </div>
       </div>
     </div>
 

@@ -145,7 +145,7 @@
 
 
 <div class="back">
-  <h2>video van presentatie</h2>
+  <h2>presentatie</h2>
   <div class="button_base b10_tveffect" onclick="window.open('../img/presentatie_plastic_recycle_webapp.pdf', '_blank');"  >
     <div>presentatie</div>
     <div>

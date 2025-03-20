@@ -9,12 +9,12 @@
 </head>
 <body>
 <nav>
-  <ul>
-    <li><a href="../dist/index.html">Home</a></li>
-    <li><a href="../dist/index.html#about">About</a></li>
-    <li><a href="../dist/index.html#portfolio">portfolio</a></li>
-    <li><a href="../dist/index.html#contact">Contact</a></li>
-  </ul>
+    <ul>
+        <li><a href="../index.php">Home</a></li>
+        <li><a href="../index.php#about">About</a></li>
+        <li><a href="../index.php#portfolio">portfolio</a></li>
+        <li><a href="../index.php#contact">Contact</a></li>
+    </ul>
 </nav>
 
 <div class="hero-section">
