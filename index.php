@@ -76,37 +76,37 @@
           <div class="skillbar clearfix " data-percent="80%">
             <div class="skillbar-title" style="background: #DD1E2F;"><span>HTML</span></div>
             <div class="skillbar-bar" style="background: #DD1E2F;"></div>
-            <div class="skill-bar-percent">80%</div>
+            <div class="skill-bar-percent"></div>
           </div> <!-- End Skill Bar -->
 
           <div class="skillbar clearfix " data-percent="70%">
             <div class="skillbar-title" style="background: #EBB035;"><span>CSS</span></div>
             <div class="skillbar-bar" style="background: #EBB035;"></div>
-            <div class="skill-bar-percent">70%</div>
+            <div class="skill-bar-percent"></div>
           </div> <!-- End Skill Bar -->
 
           <div class="skillbar clearfix " data-percent="50%">
             <div class="skillbar-title" style="background: #218559;"><span>PHP</span></div>
             <div class="skillbar-bar" style="background: #218559;"></div>
-            <div class="skill-bar-percent">50%</div>
+            <div class="skill-bar-percent"></div>
           </div> <!-- End Skill Bar -->
 
           <div class="skillbar clearfix " data-percent="40%">
             <div class="skillbar-title" style="background: #6840D4;"><span>MySQL</span></div>
             <div class="skillbar-bar" style="background: #6840D4;"></div>
-            <div class="skill-bar-percent">40%</div>
+            <div class="skill-bar-percent"></div>
           </div> <!-- End Skill Bar -->
 
           <div class="skillbar clearfix " data-percent="20%">
             <div class="skillbar-title" style="background: #06A2CB;"><span>Java Script</span></div>
             <div class="skillbar-bar" style="background: #06A2CB;"></div>
-            <div class="skill-bar-percent">20%</div>
+            <div class="skill-bar-percent"></div>
           </div> <!-- End Skill Bar -->
 
           <div class="skillbar clearfix " data-percent="15%">
             <div class="skillbar-title" style="background: #AB4DD2;"><span>C#</span></div>
             <div class="skillbar-bar" style="background: #AB4DD2;"></div>
-            <div class="skill-bar-percent">15%</div>
+            <div class="skill-bar-percent"></div>
           </div> <!-- End Skill Bar -->
         </div>
       </div>

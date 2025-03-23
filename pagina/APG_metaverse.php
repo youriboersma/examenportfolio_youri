@@ -91,6 +91,18 @@
 </div>
 
 <div class="back">
+    <h2>stand-up</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('../img/stand-up-apg.pdf', '_blank');">
+        <div>stand-up</div>
+        <div>
+            <div>stand-up</div>
+            <div>stand-up</div>
+            <div>stand-up</div>
+        </div>
+    </div>
+</div>
+
+<div class="back">
   <h2>staat op pagina 1 MoSCoW</h2>
   <div class="button_base b10_tveffect" onclick="window.open('../img/FO_apg_metaverse.pdf', '_blank');">
     <div>MoSCoW</div>

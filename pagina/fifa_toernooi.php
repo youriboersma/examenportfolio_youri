@@ -22,9 +22,22 @@
 </div>
 <br/><br/><br/><br/>
 
-<h4>hier moet een stukje tekst</h4>
+<h4>Wij hebben met een groep van drie de opdracht gekregen om een webpagina te ontwikkelen voor een FIFA-toernooi, georganiseerd voor de ICT-opleiding van Vista College Heerlen. De webpagina moet functionaliteiten bevatten zoals een voetbalteam-selectie en de mogelijkheid voor studenten om zich aan te melden voor het toernooi. Daarnaast moet de website gebruiksvriendelijk en overzichtelijk zijn, zodat deelnemers eenvoudig kunnen navigeren en zich zonder problemen kunnen inschrijven.</h4>
 
 <div><h3>B1-K1</h3></div>
+
+
+<div class="back">
+    <h2>doel</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('../img/fifa_klantengesprek.m4a', '_blank');">
+        <div>doel</div>
+        <div>
+            <div>doel</div>
+            <div>doel</div>
+            <div>doel</div>
+        </div>
+    </div>
+</div>
 
 <div class="back">
   <h2>User Stories</h2>
@@ -70,6 +83,19 @@
       <div>MoSCoW</div>
     </div>
   </div>
+</div>
+
+
+<div class="back">
+    <h2>Trello</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('https://trello.com/b/wfaIEv3S/fifa-toernooi', '_blank');">
+        <div>Trello</div>
+        <div>
+            <div>Trello</div>
+            <div>Trello</div>
+            <div>Trello</div>
+        </div>
+    </div>
 </div>
 
 <div class="back">
@@ -133,6 +159,18 @@
 </div>
 
 <div class="back">
+    <h2>FIFA toernooi evaluatie geluid gesprek</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('https://drive.google.com/file/d/1rmKziKDdbZlULzv1DZ_JU4ZH1SO7qFD3/view', '_blank');">
+        <div>evaluatie</div>
+        <div>
+            <div>evaluatie</div>
+            <div>evaluatie</div>
+            <div>evaluatie</div>
+        </div>
+    </div>
+</div>
+
+<div class="back">
     <h2>evaluatie</h2>
     <div class="button_base b10_tveffect" onclick="window.open('../img/evaluatie_FIFA_toernooi.pdf', '_blank');">
         <div>evaluatie</div>
@@ -144,9 +182,17 @@
     </div>
 </div>
 
-
-
-
+<div class="back">
+    <h2>daily stand-up</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('../img/daily-stand-up-FIFA.pdf', '_blank');">
+        <div>stand-up</div>
+        <div>
+            <div>stand-up</div>
+            <div>stand-up</div>
+            <div>stand-up</div>
+        </div>
+    </div>
+</div>
 
 
 <div><h3>B1-K2</h3></div>

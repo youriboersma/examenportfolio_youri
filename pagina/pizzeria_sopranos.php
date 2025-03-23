@@ -65,6 +65,17 @@
   </div>
 </div>
 
+<div class="back">
+    <h2>technisch ontwerp</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('../img/TO_sopranos.pdf', '_blank');">
+        <div>technisch ontwerp</div>
+        <div>
+            <div>technisch ontwerp</div>
+            <div>technisch ontwerp</div>
+            <div>technisch ontwerp</div>
+        </div>
+    </div>
+</div>
 <div class="back"
      >
   <h2>dit is het use case diagram</h2>
@@ -78,8 +89,7 @@
   </div>
 </div>
 
-<div class="back"
-     >
+<div class="back">
   <h2>de database en structuur</h2>
   <div class="button_base b10_tveffect" onclick="window.open('../img/databasesopranos.pdf', '_blank');">
     <div>database</div>
@@ -168,19 +178,56 @@
 
 </div>
 
-
+<div class="back"
+>
+    <h2>testplan van sopranos</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('../img/Testplan-sopranos.pdf', '_blank');">
+        <div>testplan</div>
+        <div>
+            <div>testplan</div>
+            <div>testplan</div>
+            <div>testplan</div>
+        </div>
+    </div>
+</div>
 
 <div class="back"
      >
-  <h2>testplan van sopranos</h2>
-  <div class="button_base b10_tveffect" onclick="window.open('../img/testplan_sopranos.PNG', '_blank');">
-    <div>testplan</div>
+  <h2>testen van sopranos</h2>
+  <div class="button_base b10_tveffect" onclick="window.open('../img/Testen_sopranos.pdf', '_blank');">
+    <div>testen</div>
     <div>
-      <div>testplan</div>
-      <div>testplan</div>
-      <div>testplan</div>
+      <div>testen</div>
+      <div>testen</div>
+      <div>testen</div>
     </div>
   </div>
+</div>
+
+<div class="back"
+>
+    <h2>getest door iemand anders dan iemand van het project</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('../img/getest_door_devyn_sopranos.png', '_blank');">
+        <div>getest</div>
+        <div>
+            <div>getest</div>
+            <div>getest</div>
+            <div>getest</div>
+        </div>
+    </div>
+</div>
+
+<div class="back"
+>
+    <h2>verbetervoorstellen van sopranos</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('../img/verbetervoorstellen_sopranos.pdf', '_blank');">
+        <div>verbetervoorstellen</div>
+        <div>
+            <div>verbetervoorstellen</div>
+            <div>verbetervoorstellen</div>
+            <div>verbetervoorstellen</div>
+        </div>
+    </div>
 </div>
 
 <div class="back">
