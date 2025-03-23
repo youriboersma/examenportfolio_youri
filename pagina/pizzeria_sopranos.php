@@ -1,3 +1,4 @@
+<!--version 1.1-->
 <!DOCTYPE html>
 <html lang="en" >
 <head>
@@ -257,17 +258,31 @@
   </div>
 </div>
 
-<div class="back"
-     >
-  <h2>reflectie van sopranos</h2>
-  <div class="button_base b10_tveffect" onclick="window.open('../img/reflectie_sopranos.pdf', '_blank');">
-    <div>reflectie</div>
-    <div>
-      <div>reflectie</div>
-      <div>reflectie</div>
-      <div>reflectie</div>
+
+
+<div class="back">
+    <h2>reflectie van het testplan</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('../img/reflectie_testen_sopranos.pdf', '_blank');"  >
+        <div>reflectie</div>
+        <div>
+            <div>reflectie</div>
+            <div>reflectie</div>
+            <div>reflectie</div>
+        </div>
     </div>
-  </div>
+</div>
+
+<div class="back"
+>
+    <h2>reflectie van het project sopranos</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('../img/reflectie_sopranos.pdf', '_blank');">
+        <div>reflectie</div>
+        <div>
+            <div>reflectie</div>
+            <div>reflectie</div>
+            <div>reflectie</div>
+        </div>
+    </div>
 </div>
 
 <div class="back"

@@ -1,3 +1,4 @@
+<!--version 1.0-->
 <!DOCTYPE html>
 <html lang="en" >
 <head>
@@ -194,6 +195,19 @@
     </div>
 </div>
 
+<div class="back"
+>
+    <h2>verbetervoorstellen van sopranos</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('../img/verbetervoorstel_FIFA_toernooi.pdf', '_blank');">
+        <div>verbetervoorstellen</div>
+        <div>
+            <div>verbetervoorstellen</div>
+            <div>verbetervoorstellen</div>
+            <div>verbetervoorstellen</div>
+        </div>
+    </div>
+</div>
+
 
 <div><h3>B1-K2</h3></div>
 
@@ -237,7 +251,7 @@
 
 <div class="back">
   <h2>reflectie van het project</h2>
-  <div class="button_base b10_tveffect" onclick="window.open('../img/reflectie_plastic_recycle_app.pdf', '_blank');"  >
+  <div class="button_base b10_tveffect" onclick="window.open('../img/reflectie_FIFA_toernooi.pdf', '_blank');"  >
     <div>reflectie</div>
     <div>
       <div>reflectie</div>
@@ -246,6 +260,8 @@
     </div>
   </div>
 </div>
+
+
 
 
 
