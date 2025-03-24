@@ -29,13 +29,13 @@
 
 
 <div class="back">
-    <h2>doel</h2>
+    <h2>klanten gesprek</h2>
     <div class="button_base b10_tveffect" onclick="window.open('../img/fifa_klantengesprek.m4a', '_blank');">
-        <div>doel</div>
+        <div>klanten gesprek</div>
         <div>
-            <div>doel</div>
-            <div>doel</div>
-            <div>doel</div>
+            <div>klanten gesprek</div>
+            <div>klanten gesprek</div>
+            <div>klanten gesprek</div>
         </div>
     </div>
 </div>
@@ -124,6 +124,30 @@
 </div>
 
 <div class="back">
+    <h2>ontwerpt software</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('../img/ontwerpt_software_FIFA.png', '_blank');">
+        <div>ontwerpt software</div>
+        <div>
+            <div>ontwerpt software</div>
+            <div>ontwerpt software</div>
+            <div>ontwerpt software</div>
+        </div>
+    </div>
+</div>
+
+<div class="back">
+    <h2>figma</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('https://www.figma.com/design/c78sKBEOvBdACsFD3ZnO8r/Untitled?node-id=0-1&t=SnXcjLVeAxRFMb9g-1', '_blank');">
+        <div>figma</div>
+        <div>
+            <div>figma</div>
+            <div>figma</div>
+            <div>figma</div>
+        </div>
+    </div>
+</div>
+
+<div class="back">
   <h2>Functioneel ontwerp</h2>
   <div class="button_base b10_tveffect" onclick="window.open('../img/FO_FIFA_toernooi.pdf', '_blank');">
     <div>FO</div>
@@ -137,7 +161,7 @@
 
 <div class="back">
   <h2>technisch ontwerp</h2>
-  <div class="button_base b10_tveffect" onclick="window.open('../img/TO_FIFA_toernooi.pdf', '_blank');">
+  <div class="button_base b10_tveffect" onclick="window.open('../img/to_fifa_toernooi2.pdf', '_blank');">
     <div>TO</div>
     <div>
       <div>TO</div>
@@ -208,6 +232,18 @@
     </div>
 </div>
 
+<div class="back">
+    <h2>gehele documentatie</h2>
+    <div class="button_base b10_tveffect" onclick="window.open('https://docs.google.com/document/d/1VmfSc-FYJltHLoEf5GXI64JK2fQAR7xMtO44UF7B2do/edit?tab=t.0', '_blank');">
+        <div>documentatie</div>
+        <div>
+            <div>documentatie</div>
+            <div>documentatie</div>
+            <div>documentatie</div>
+        </div>
+    </div>
+</div>
+
 
 <div><h3>B1-K2</h3></div>
 
@@ -226,7 +262,7 @@
 
 
 <div class="back">
-  <h2>video van presentatie</h2>
+  <h2>presentatie</h2>
   <div class="button_base b10_tveffect" onclick="window.open('../img/Presentatie_FIFA_toernooi.pdf', '_blank');"  >
     <div>presentatie</div>
     <div>
